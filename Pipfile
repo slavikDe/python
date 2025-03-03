@@ -5,12 +5,17 @@ name = "pypi"
 
 [packages]
 numpy = "*"
-requests = "*"
 pandas = "*"
+spicy = "*"
+ipykernel = "*"
+requests = "*"
+scikit-learn = "*"
+matplotlib = "*"
+seaborn = "*"
 nltk = "*"
+gensim = "*"
 
 [dev-packages]
-ipykernel = "*"
 
 [requires]
 python_version = "3.12"
